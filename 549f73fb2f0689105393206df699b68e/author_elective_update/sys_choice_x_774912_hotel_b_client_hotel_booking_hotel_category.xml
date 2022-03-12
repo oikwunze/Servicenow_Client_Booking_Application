@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="hotel_category" table="x_774912_hotel_b_client_hotel_booking" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>hotel_category</element>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:09:45</sys_created_on>
+            <sys_id>b62834842f1a89105393206df699b622</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>hotel_category</sys_name>
+            <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+            <sys_update_name>sys_choice_x_774912_hotel_b_client_hotel_booking_hotel_category</sys_update_name>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:09:45</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7-Star</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a2834cc2f9689105393206df699b61b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:09:45</sys_updated_on>
+            <value>7-Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6-Star</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be2834842f1a89105393206df699b623</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:09:45</sys_updated_on>
+            <value>6-Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5-Star</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f22834842f1a89105393206df699b625</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:09:45</sys_updated_on>
+            <value>5-Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4-Star</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a2834842f1a89105393206df699b626</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:09:45</sys_updated_on>
+            <value>4-Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3-Star</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e2834842f1a89105393206df699b627</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:09:45</sys_updated_on>
+            <value>3-Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2-Star</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b22834842f1a89105393206df699b629</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:09:45</sys_updated_on>
+            <value>2-Star</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1-Star</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f62834842f1a89105393206df699b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:09:45</sys_updated_on>
+            <value>1-Star</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

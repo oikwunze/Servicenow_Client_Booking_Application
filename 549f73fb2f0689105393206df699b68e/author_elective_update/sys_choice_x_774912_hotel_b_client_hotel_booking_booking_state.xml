@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="booking_state" table="x_774912_hotel_b_client_hotel_booking" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>booking_state</element>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:09:29</sys_created_on>
+            <sys_id>9eee808c2f5689105393206df699b649</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>booking_state</sys_name>
+            <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+            <sys_update_name>sys_choice_x_774912_hotel_b_client_hotel_booking_booking_state</sys_update_name>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:09:29</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Booking</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:09:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2ee808c2f5689105393206df699b649</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:09:29</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending Booking</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:09:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12eec08c2f5689105393206df699b606</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:09:29</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Already Booked</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:09:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16eec08c2f5689105393206df699b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:09:29</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Eligible</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:09:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1aeec08c2f5689105393206df699b608</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:09:29</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Booking Closed</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:09:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1eeec08c2f5689105393206df699b609</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:09:29</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>booking_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Booking Cancelled</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:09:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12eec08c2f5689105393206df699b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:09:29</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

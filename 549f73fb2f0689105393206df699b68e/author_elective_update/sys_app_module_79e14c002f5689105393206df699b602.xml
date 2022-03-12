@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Client Hotel Booking">3de10c002f5689105393206df699b6fe</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Client Hotel Bookings</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_774912_hotel_b_client_hotel_booking</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_774912_hotel_b.client_hotel_booking_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>okenzo</sys_created_by>
+        <sys_created_on>2022-03-12 16:12:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>79e14c002f5689105393206df699b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Client Hotel Bookings</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+        <sys_update_name>sys_app_module_79e14c002f5689105393206df699b602</sys_update_name>
+        <sys_updated_by>okenzo</sys_updated_by>
+        <sys_updated_on>2022-03-12 16:12:39</sys_updated_on>
+        <timeline_page/>
+        <title>Client Hotel Bookings</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</application>
+        <file_path/>
+        <instance_id>1f793201db37770442b321c40596199e</instance_id>
+        <instance_name>dev93385</instance_name>
+        <name>sys_app_module_79e14c002f5689105393206df699b602</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Client Hotel Booking">3de10c002f5689105393206df699b6fe</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Client Hotel Bookings</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_774912_hotel_b_client_hotel_booking</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_774912_hotel_b.client_hotel_booking_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>okenzo</sys_created_by><sys_created_on>2022-03-12 16:12:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>79e14c002f5689105393206df699b602</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Client Hotel Bookings</sys_name><sys_overrides/><sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package><sys_policy/><sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope><sys_update_name>sys_app_module_79e14c002f5689105393206df699b602</sys_update_name><sys_updated_by>okenzo</sys_updated_by><sys_updated_on>2022-03-12 16:12:39</sys_updated_on><timeline_page/><title>Client Hotel Bookings</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>726509298</payload_hash>
+        <record_name>Client Hotel Bookings</record_name>
+        <reverted_from/>
+        <source>1c9f73fb2f0689105393206df699b690</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>okenzo</sys_created_by>
+        <sys_created_on>2022-03-12 16:12:39</sys_created_on>
+        <sys_id>7de14c002f5689105393206df699b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f7ee7435e0000001</sys_recorded_at>
+        <sys_updated_by>okenzo</sys_updated_by>
+        <sys_updated_on>2022-03-12 16:12:39</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b5e14c00ec568910ea7d986df312bb05</update_guid>
+        <update_guid_history>b5e14c00ec568910ea7d986df312bb05:726509298</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Client Hotel Bookings">f9cec58c2f5a89105393206df699b6c2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>okenzo</sys_created_by>
+        <sys_created_on>2022-03-12 21:48:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>25ff856ffa0746898c3f9e43970fe539</sys_id>
+        <sys_metadata>79e14c002f5689105393206df699b602</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Client Hotel Bookings</sys_name>
+        <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+        <sys_scope_delete display_value="">13effb7d2e2c42d48c0a657818e46424</sys_scope_delete>
+        <sys_update_name>sys_app_module_79e14c002f5689105393206df699b602</sys_update_name>
+        <sys_update_version display_value="sys_app_module_79e14c002f5689105393206df699b602">7de14c002f5689105393206df699b605</sys_update_version>
+        <sys_updated_by>okenzo</sys_updated_by>
+        <sys_updated_on>2022-03-12 21:48:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

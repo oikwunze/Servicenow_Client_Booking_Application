@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="contact_type" table="x_774912_hotel_b_client_hotel_booking" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:27:06</sys_created_on>
+            <sys_id>14f294802f9689105393206df699b675</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>contact_type</sys_name>
+            <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+            <sys_update_name>sys_choice_x_774912_hotel_b_client_hotel_booking_contact_type</sys_update_name>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:27:06</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mobile Phone</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:27:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18f294802f9689105393206df699b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:27:06</sys_updated_on>
+            <value>Mobile Phone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Self-Service</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:27:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d1310402f9689105393206df699b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:27:42</sys_updated_on>
+            <value>Self-Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:27:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>811310402f9689105393206df699b61a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:27:42</sys_updated_on>
+            <value>Email</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Walk-In</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 17:27:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c51318802f9689105393206df699b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 17:27:42</sys_updated_on>
+            <value>Walk-In</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

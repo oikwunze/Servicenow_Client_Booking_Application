@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_774912_hotel_b.client_hotel_booking_user" name="x_774912_hotel_b.client_hotel_booking_user">65e1088c2f1689105393206df699b682</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>okenzo</sys_created_by>
+        <sys_created_on>2022-03-12 16:12:39</sys_created_on>
+        <sys_id>69e10c002f5689105393206df699b6f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>65e1088c2f1689105393206df699b682</sys_name>
+        <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_69e10c002f5689105393206df699b6f8</sys_update_name>
+        <sys_updated_by>okenzo</sys_updated_by>
+        <sys_updated_on>2022-03-12 16:12:39</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

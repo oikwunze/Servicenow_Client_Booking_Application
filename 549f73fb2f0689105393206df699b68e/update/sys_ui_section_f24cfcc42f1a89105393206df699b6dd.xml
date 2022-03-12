@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Notes" section_id="f24cfcc42f1a89105393206df699b6dd" sys_domain="global" table="x_774912_hotel_b_client_hotel_booking" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:27:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f24cfcc42f1a89105393206df699b6dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_774912_hotel_b_client_hotel_booking</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+            <sys_update_name>sys_ui_section_f24cfcc42f1a89105393206df699b6dd</sys_update_name>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:27:47</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

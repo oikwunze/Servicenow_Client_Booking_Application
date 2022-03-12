@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>process_flow.xml</formatter>
+        <name>Process Flow</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>okenzo</sys_created_by>
+        <sys_created_on>2022-03-12 21:20:58</sys_created_on>
+        <sys_id>8e7885842f5a89105393206df699b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Flow</sys_name>
+        <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+        <sys_update_name>sys_ui_formatter_8e7885842f5a89105393206df699b6af</sys_update_name>
+        <sys_updated_by>okenzo</sys_updated_by>
+        <sys_updated_on>2022-03-12 21:20:58</sys_updated_on>
+        <table>x_774912_hotel_b_client_hotel_booking</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>

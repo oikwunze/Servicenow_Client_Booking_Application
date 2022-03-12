@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Data Lookup and Record Matching Support" source="com.glide.data_lookup">0a42a226a5b40110c0a0e1db2cdc9548</dependency>
+        <min_version>1.0.6</min_version>
+        <sys_created_by>okenzo</sys_created_by>
+        <sys_created_on>2022-03-12 20:32:42</sys_created_on>
+        <sys_id>436d38c82f1a89105393206df699b68b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+        <sys_updated_by>okenzo</sys_updated_by>
+        <sys_updated_on>2022-03-12 20:32:42</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

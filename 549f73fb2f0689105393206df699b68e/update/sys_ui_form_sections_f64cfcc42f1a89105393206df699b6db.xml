@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f64cfcc42f1a89105393206df699b6db" sys_domain="global" table="x_774912_hotel_b_client_hotel_booking" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d80a09482f5a89105393206df699b64d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_774912_hotel_b_client_hotel_booking" name="x_774912_hotel_b_client_hotel_booking" sys_domain="global" view="Default view">f64cfcc42f1a89105393206df699b6db</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_774912_hotel_b_client_hotel_booking" sys_domain="global" view="Default view">480ac5482f5a89105393206df699b6cd</sys_ui_section>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:27:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>834cfcc42f1a89105393206df699b6df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_774912_hotel_b_client_hotel_booking" name="x_774912_hotel_b_client_hotel_booking" sys_domain="global" view="Default view">f64cfcc42f1a89105393206df699b6db</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_774912_hotel_b_client_hotel_booking" sys_domain="global" view="Default view">f24cfcc42f1a89105393206df699b6dd</sys_ui_section>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:27:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:28:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a97c38882f1a89105393206df699b6c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_774912_hotel_b_client_hotel_booking" name="x_774912_hotel_b_client_hotel_booking" sys_domain="global" view="Default view">f64cfcc42f1a89105393206df699b6db</sys_ui_form>
+            <sys_ui_section caption="More Information" display_value="More Information" name="x_774912_hotel_b_client_hotel_booking" sys_domain="global" view="Default view">a17c34842f1a89105393206df699b639</sys_ui_section>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:28:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:27:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f64cfcc42f1a89105393206df699b6db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_774912_hotel_b_client_hotel_booking</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f64cfcc42f1a89105393206df699b6db</sys_update_name>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:27:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

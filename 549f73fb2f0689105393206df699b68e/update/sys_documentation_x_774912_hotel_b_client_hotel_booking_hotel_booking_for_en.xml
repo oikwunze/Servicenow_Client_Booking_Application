@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="hotel_booking_for" label="Hotel Booking For" language="en" table="x_774912_hotel_b_client_hotel_booking">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>hotel_booking_for</element>
+            <help/>
+            <hint/>
+            <label>Hotel Booking For</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <plural>Hotel Booking Fors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 16:28:43</sys_created_on>
+            <sys_id>0995c4042f5689105393206df699b6c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Hotel Booking For</sys_name>
+            <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+            <sys_update_name>sys_documentation_x_774912_hotel_b_client_hotel_booking_hotel_booking_for_en</sys_update_name>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 16:28:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

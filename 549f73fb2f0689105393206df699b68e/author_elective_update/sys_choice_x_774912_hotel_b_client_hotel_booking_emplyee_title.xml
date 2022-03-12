@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="emplyee_title" table="x_774912_hotel_b_client_hotel_booking" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>emplyee_title</element>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_id>5c0a09482f5a89105393206df699b657</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>emplyee_title</sys_name>
+            <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+            <sys_update_name>sys_choice_x_774912_hotel_b_client_hotel_booking_emplyee_title</sys_update_name>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Administrative Assistant</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>900a09482f5a89105393206df699b657</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>Administrative Assistant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chief Executive Officer</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc0a09482f5a89105393206df699b658</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>Chief Executive Officer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chief Financial Officer</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c0a09482f5a89105393206df699b666</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>Chief Financial Officer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chief Technology Officer</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>900a09482f5a89105393206df699b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>Chief Technology Officer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Director</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>180a09482f5a89105393206df699b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>Director</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IT Technician</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c0a09482f5a89105393206df699b66a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>IT Technician</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Junior Developer</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>140a09482f5a89105393206df699b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>Junior Developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sales Executive</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>980a09482f5a89105393206df699b66d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>Sales Executive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Senior Developer</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>100a09482f5a89105393206df699b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>Senior Developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Solution Consultant</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>940a09482f5a89105393206df699b670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>Solution Consultant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>System Administrator</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c0a09482f5a89105393206df699b671</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>System Administrator</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>emplyee_title</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vice President</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_client_hotel_booking</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 21:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>900a09482f5a89105393206df699b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 21:27:41</sys_updated_on>
+            <value>Vice President</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

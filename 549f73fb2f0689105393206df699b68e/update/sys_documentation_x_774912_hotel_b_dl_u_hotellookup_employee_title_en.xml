@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="employee_title" label="Employee Title" language="en" table="x_774912_hotel_b_dl_u_hotellookup">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>employee_title</element>
+            <help/>
+            <hint/>
+            <label>Employee Title</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_dl_u_hotellookup</name>
+            <plural>Employee Titles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:54:46</sys_created_on>
+            <sys_id>9a7285402f5a89105393206df699b68c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Employee Title</sys_name>
+            <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+            <sys_update_name>sys_documentation_x_774912_hotel_b_dl_u_hotellookup_employee_title_en</sys_update_name>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:54:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

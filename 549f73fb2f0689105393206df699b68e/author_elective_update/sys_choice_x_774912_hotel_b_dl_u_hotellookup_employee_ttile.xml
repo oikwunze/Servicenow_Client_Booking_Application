@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="employee_ttile" table="x_774912_hotel_b_dl_u_hotellookup" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>employee_ttile</element>
+            <name>x_774912_hotel_b_dl_u_hotellookup</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:41:06</sys_created_on>
+            <sys_id>465fb80c2f1a89105393206df699b63e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>employee_ttile</sys_name>
+            <sys_package display_value="Clients Hotel Booking Application" source="x_774912_hotel_b">549f73fb2f0689105393206df699b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clients Hotel Booking Application">549f73fb2f0689105393206df699b68e</sys_scope>
+            <sys_update_name>sys_choice_x_774912_hotel_b_dl_u_hotellookup_employee_ttile</sys_update_name>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:41:06</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employee_ttile</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>x_774912_hotel_b_dl_u_hotellookup</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>okenzo</sys_created_by>
+            <sys_created_on>2022-03-12 20:41:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a5fb80c2f1a89105393206df699b63d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>okenzo</sys_updated_by>
+            <sys_updated_on>2022-03-12 20:41:06</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

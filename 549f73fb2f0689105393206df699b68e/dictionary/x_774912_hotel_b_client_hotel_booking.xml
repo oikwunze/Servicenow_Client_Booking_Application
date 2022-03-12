@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Client Hotel Booking" max_length="40" name="x_774912_hotel_b_client_hotel_booking" type="collection">
+        <element attributes="encode_utf8=false" dependent="assignment_group" dependent_on_field="assignment_group" label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference" use_dependent_field="true"/>
+        <element attributes="encode_utf8=false" label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Booking Reason" max_length="100" name="booking_reason" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Booking State" max_length="40" name="booking_state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New Booking" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Pending Booking" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Already Booked" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Not Eligible" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Booking Closed" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Booking Cancelled" sequence="5" value="6"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="CheckIn Date and Time" max_length="40" name="checkin_date_and_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="CheckOut Date and Time" max_length="40" name="checkout_date_and_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Mobile Phone" label="Contact type" max_length="40" name="contact_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Mobile Phone" sequence="0" value="Mobile Phone"/>
+                <element inactive_on_update="false" label="Self-Service" sequence="1" value="Self-Service"/>
+                <element inactive_on_update="false" label="Email" sequence="2" value="Email"/>
+                <element inactive_on_update="false" label="Walk-In" sequence="3" value="Walk-In"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Employee Department" max_length="32" name="employee_department" reference="cmn_department" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="title" choice_table="sys_user" label="Emplyee Title" max_length="40" name="emplyee_title" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Administrative Assistant" sequence="0" value="Administrative Assistant"/>
+                <element inactive_on_update="false" label="Chief Executive Officer" sequence="1" value="Chief Executive Officer"/>
+                <element inactive_on_update="false" label="Chief Financial Officer" sequence="2" value="Chief Financial Officer"/>
+                <element inactive_on_update="false" label="Chief Technology Officer" sequence="3" value="Chief Technology Officer"/>
+                <element inactive_on_update="false" label="Director" sequence="4" value="Director"/>
+                <element inactive_on_update="false" label="IT Technician" sequence="5" value="IT Technician"/>
+                <element inactive_on_update="false" label="Junior Developer" sequence="6" value="Junior Developer"/>
+                <element inactive_on_update="false" label="Sales Executive" sequence="7" value="Sales Executive"/>
+                <element inactive_on_update="false" label="Senior Developer" sequence="8" value="Senior Developer"/>
+                <element inactive_on_update="false" label="Solution Consultant" sequence="9" value="Solution Consultant"/>
+                <element inactive_on_update="false" label="System Administrator" sequence="10" value="System Administrator"/>
+                <element inactive_on_update="false" label="Vice President" sequence="11" value="Vice President"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Hotel Booking For" max_length="32" name="hotel_booking_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Hotel Category" max_length="40" name="hotel_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="7-Star" sequence="0" value="7-Star"/>
+                <element inactive_on_update="false" label="6-Star" sequence="1" value="6-Star"/>
+                <element inactive_on_update="false" label="5-Star" sequence="2" value="5-Star"/>
+                <element inactive_on_update="false" label="4-Star" sequence="3" value="4-Star"/>
+                <element inactive_on_update="false" label="3-Star" sequence="4" value="3-Star"/>
+                <element inactive_on_update="false" label="2-Star" sequence="5" value="2-Star"/>
+                <element inactive_on_update="false" label="1-Star" sequence="6" value="1-Star"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="More Information About Your Booking" max_length="100" name="more_information_about_your_booking" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <index name="index">
+            <element name="hotel_booking_for"/>
+        </index>
+        <index name="index2">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index3">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index4">
+            <element name="employee_department"/>
+        </index>
+    </element>
+</database>

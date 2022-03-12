@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="dl_matcher" label="dl_u_hotellookup" max_length="40" name="x_774912_hotel_b_dl_u_hotellookup" type="collection">
+        <element attributes="encode_utf8=false" label="Employee Department" max_length="32" name="employee_department" reference="cmn_department" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="title" choice_table="sys_user" label="Employee Title" max_length="40" name="employee_title" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="booking_state" choice_table="x_774912_hotel_b_client_hotel_booking" label="Hotel Category" max_length="40" name="hotel_category" type="string">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="employee_department"/>
+        </index>
+    </element>
+</database>
